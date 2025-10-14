@@ -1,0 +1,2 @@
+# 5G-Desktop-Lab
+The 5G Virtual &amp; Physical Low-Cost Lab brings the power of next-generation networks to your fingertips. By combining virtual simulations with affordable real-world setups, this lab makes advanced 5G experimentation accessible to universities, startups, and innovators without breaking the budget.
