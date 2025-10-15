@@ -9,5 +9,5 @@ Demo Video 5G Dekstop Lab with OAI
 
 Demo Video 5G Dekstop Lab with Open5gc UERANSIM 
 
-[![[Watch the video](https://img.youtube.com/vi/7rR3TRZAUGQ&t=29s/0.jpg)](https://www.youtube.com/watch?v=7rR3TRZAUGQ&t=29s)
+[![[ 5G Dekstop Lab with Open5gc UERANSIM ](https://img.youtube.com/vi/7rR3TRZAUGQ&t=29s/0.jpg)](https://www.youtube.com/watch?v=7rR3TRZAUGQ&t=29s)
 
