@@ -5,6 +5,8 @@ Demo Video 5G Dekstop Lab with OAI
 
 [![Watch the video](https://img.youtube.com/vi/WkIymK58qyY/0.jpg)](https://www.youtube.com/watch?v=WkIymK58qyY)
 
+[![Watch the video](https://img.youtube.com/vi/7rR3TRZAUGQ/0.jpg)](https://www.youtube.com/watch?v=7rR3TRZAUGQ)
+
 
 
 
