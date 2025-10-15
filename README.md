@@ -5,3 +5,5 @@ Demo Video
 
 https://www.youtube.com/watch?v=WkIymK58qyY
 
+[![5G Desktop with OAI ](https://img.youtube.com/vi/WkIymK58qyY/0.jpg)](https://www.youtube.com/watch?v=WkIymK58qyY)
+
