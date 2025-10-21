@@ -1,13 +1,13 @@
 ## Virtual setups ###
 A.Small 5G 
-Built with Open air interface with Minimul docker 5G compoents AMF SMF NRF UPF ,intregated wirh virtual RAN and Edge network.
-Easy to use with Integraed GUI and Monitaring tool and Log analytics.
+Built with Open air interface with Minimal docker 5G components AMF SMF NRF UPF ,integrated with virtual RAN and Edge network.
+Easy to use with Integrated GUI and Monitoring tool and Log analytics.
 UE------gnb-------AMF SMF NRF 
           |.........UPF....DN 
 
 B. Advance 5G 
-Built with Open air interface with docker 5G compoents AMF SMF NRF UPF UDM UDR AUSF etc  and intregated wirh virtual RAN.
-Easy to use with Integraed GUI and Monitaring tool and Log analytics.
+Built with Open air interface with docker 5G components AMF SMF NRF UPF UDM UDR AUSF etc  and integrated wirh virtual RAN.
+Easy to use with integrated GUI and Monitaring tool and Log analytics.
 UE------gnb-------AMF SMF NRF AUSF UDM UDR PCF
           |.........UPF....DN 
 
