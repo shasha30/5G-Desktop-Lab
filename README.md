@@ -10,6 +10,10 @@ Demo Video 5G Dekstop Lab with Open5Gs and UERANSIM
 [![Watch the video](https://img.youtube.com/vi/7rR3TRZAUGQ/0.jpg)](https://www.youtube.com/watch?v=7rR3TRZAUGQ)
 
 
+Demo Video 5G Edge computing with OAI 
+
+[![Watch the video](https://img.youtube.com/vi/7rR3TRZAUGQ/0.jpg)](https://www.youtube.com/watch?v=5EyrgfnQVbo)
+
 
 
 
