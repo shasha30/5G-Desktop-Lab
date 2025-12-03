@@ -17,7 +17,7 @@ Demo Video 5G Edge computing with OAI
 
 Demo Video small 5G  with OAI 
 
-[![Watch the video](https://img.youtube.com/vi/0T4WVbhH1ZU&t=444s/0.jpg)](https://www.youtube.com/watch?v=0T4WVbhH1ZU&t=444s)
+[![Watch the video](https://img.youtube.com/vi/0T4WVbhH1ZU&t/0.jpg)](https://www.youtube.com/watch?v=0T4WVbhH1ZU&t=444s)
 
 
 
