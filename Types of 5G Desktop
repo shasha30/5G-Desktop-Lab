@@ -15,9 +15,18 @@ C.Edge 5G
 Built with Open air interface with docker 5G compoents  Edge computing capabilties with components AMF SMF NRF  UDM UDR AUSF 
 ULCL  PCF ,intregated wirh virtual RAN ,edge UPF,Cloud UPF ,EDGE DN and cloud DN .
 Easy to use with Integraed GUI and Monitaring tool,Log analytics.
-UE------gnb-------AMF SMF NRF AUSF UDM UDR PCF 
+UE------gnb-------AMF SMF NRF AUSF UDM UDR PCF
          ULCL |.........Edge UPF....Edge DN 
          ULCL |.........Cloud UPF...Cloud DN
 
 D.Slice 5G
+Built with Open air interface with docker 5G compoents  slice computing capabilties with components AMF SMF NRF  UDM UDR AUSF 
+ULCL  PCF ,intregated wirh virtual RAN , ,EDGE DN etc.
+Easy to use with Integraed GUI and Monitaring tool,Log analytics.
+UE1------gnb1-------AMF SMF1 NRF1 AUSF UDM UDR PCF UPF1...........DN ........... Slice 1
+UE2------gnb2-------AMF SMF2 NRF2 AUSF UDM UDR PCF UPF2...........DN ............Slice 2
+UE3------gnb3-------AMF SMF2 NRF3 AUSF UDM UDR PCF UPF3...........DN ............Slice 3
 
+######## Binary files 5G set up ######## 
+E.5G with open5gc UERAN SIM 
+Build LAN based 5G Network without SDR with all 5G components AMF SMF NRF UPF UDM UDR AUSF etc with 5G and 5G and EPC capabilties
